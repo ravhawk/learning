@@ -1,2 +1,2 @@
 # learning
-basic place to push while learning
+basic place to push while learning.
